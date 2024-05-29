@@ -6,7 +6,7 @@ class Program {
     // Declare the constant for conversion
     const double CENTIMETERS_PER_INCH = 2.54;
     // Variable to assign inch value
-    double inches = 5;
+    double inches = 50;
     // Variable that calculates and stores the value for centimeters
     double centimeters = inches * CENTIMETERS_PER_INCH;
     // Displays inches to centimeters
